@@ -1,4 +1,4 @@
-<!-- Banner -->
+
 <img src="Imagenes/banner.jpg" alt="Banner" width="100%">
 
 <h1 align="center">Hola 👋, soy Agustina Moizo ✨</h1>
