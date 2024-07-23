@@ -27,104 +27,17 @@
 
 <br>
 
-<h2 align="left">Tecnologías en las que me encuentro formandome 👨🏻‍💻</h2>
+<h2 align="left">Tecnologías en las que me estoy formando 👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,php,py,mysql,sqlite,git,github,vscode,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,java,php,py,git,eclipse,genexus,canva,github,ps&perline=12" />
   </a>
 </p>
-
 <br>
 
-<h2 align="left">Tutoriales👨🏻‍💻</h2>
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <p align="center">
-        <a href="https://www.youtube.com/watch?v=u3J-fe4UFsA&t=584s" title="Ver Video">
-          <img align="center" width="90%" src="Imagenes/BusquedaBinariaED.png" alt="VIDEO" />
-        </a>
-      </p>
-      <p align="center">
-        <h3 align="left">=>Estructura de Datos</h3>
-        <a href="https://www.youtube.com/watch?v=u3J-fe4UFsA&t=584s" target="blank">
-          <img align="center" src="https://img.shields.io/badge/Ver Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver Video" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <p align="center">
-        <a href="https://www.youtube.com/watch?v=E34gH1vP3iw&list=PLA96kRUo8UuCNHV-382S9bsrgbCSe52Od&index=1&t=179s" title="Ver Video">
-          <img align="center" width="90%" src="Imagenes/NotionMiniatura.png" alt="VIDEO" />
-        </a>
-      </p>
-      <p align="center">
-        <h3 align="left">=>Organiza tu Tiempo con Notion</h3>
-        <a href="https://www.youtube.com/watch?v=E34gH1vP3iw&list=PLA96kRUo8UuCNHV-382S9bsrgbCSe52Od&index=1&t=179s" target="blank">
-          <img align="center" src="https://img.shields.io/badge/Ver Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver Video" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <p align="center">
-        <a href="https://www.youtube.com/watch?v=EE23Koza6_w&t=10s" title="Ver Video">
-          <img align="center" width="90%" src="Imagenes/PHLOGINP1.png" alt="VIDEO" />
-        </a>
-      </p>
-      <p align="center">        
-        <h3 align="left">=>Login con PHP</h3>
-        <a href="https://www.youtube.com/watch?v=EE23Koza6_w&t=10s" target="blank">
-          <img align="center" src="https://img.shields.io/badge/Ver Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver Video" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <p align="center">
-        <a href="https://www.youtube.com/watch?v=BASwKN-t_Jc&t=4s" title="Ver Video">
-          <img align="center" width="90%" src="Imagenes/JAVAINTRO1.png" alt="VIDEO" />
-        </a>
-      </p>
-      <p align="center">
-        <h3 align="left">=>Curso de JAVA Gratuito</h3>
-        <a href="https://www.youtube.com/watch?v=BASwKN-t_Jc&t=4s" target="blank">
-          <img align="center" src="https://img.shields.io/badge/Ver Curso-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver Curso" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p>Html, Css, Java, Php, Eclipse, Genexus, Canva, GitHub, Adobe</p>
 
-<br>
-
-<h2 align="left">Recursos y Libros 📚</h2>
-<div align="center">
-  <div style="border: 1px solid #4CAF50; border-radius: 5px; padding: 10px; margin-bottom: 10px; width: 80%;">
-    <p align="left">
-      <strong>Libro de POO - Java (Inglés) ~ Recomiendo</strong><br>
-      <a href="https://www.ms.sapientia.ro/~manyi/teaching/oop/oop_java.pdf" target="blank">-> Descargar</a>
-    </p>
-  </div>
-  <div style="border: 1px solid #4CAF50; border-radius: 5px; padding: 10px; margin-bottom: 10px; width: 80%;">
-    <p align="left">
-      <strong>Libro de Data Structure ~ Recomiendo</strong><br>
-      <a href="https://dl.ebooksworld.ir/motoman/Wiley.Data.Structures.and.Algorithms.in.Java.6th.Edition.www.EBooksWorld.ir.pdf" target="blank">-> Descargar</a>
-    </p>
-  </div>
-  <div style="border: 1px solid #4CAF50; border-radius: 5px; padding: 10px; margin-bottom: 10px; width: 80%;">
-    <p align="left">
-      <strong>Libro de Programación Funcional (Java) ~ Recomiendo</strong><br>
-      <a href="https://github.com/sergarb1/JavaFuncional/blob/master/Java%20-%20Programacion%20Funcional.pdf" target="blank">-> Descargar</a>
-    </p>
-  </div>
-</div>
-
-<br>
-
-<h2 align="left">Estadísticas</h2>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Agustina-Moizo&show_icons=true&theme=dark" alt="Agustina Moizo's GitHub stats" />
-  <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agustina-Moizo&layout=compact&theme=dark" alt="Top Langs" />
-</p>
+<h2 align="left">Contacto 📞</h2>
+<p>📧 Email: <a href="mailto:agus3813@gmail.com">agus3813@gmail.com</a></p>
+<p>📱 Teléfono: 098725709 </p>
+<p>📍 Ubicación: Montevideo, Uruguay</p>
