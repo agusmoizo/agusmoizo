@@ -27,7 +27,7 @@
 
 <br>
 
-<h2 align="left">Tecnologías conocidas 👨🏻‍💻</h2>
+<h2 align="left">Tecnologías en las que me encuentro formandome 👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,java,php,py,mysql,sqlite,git,github,vscode,ps&perline=12" />
